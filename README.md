@@ -1,6 +1,6 @@
-# Actuarial Assassins Game Description
+# Actuarial Assassins Game 
 
-Actuarial Assassins is a thrilling, strategy-based game played among participants who are assigned targets to "assassinate" within a set of rules. The game is designed to test stealth, strategy, and social skills as players aim to be the last one standing. 
+Actuarial Assassins is a thrilling, strategy-based game played among our MASS members who are assigned targets to "assassinate" within a set of rules. The game is designed to test strategy, and social skills as players aim to be the last one standing. 
 
 ## How to Play
 

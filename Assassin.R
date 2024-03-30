@@ -137,7 +137,7 @@ df_randomised %>%
 #add in admin login to userbase data:
 
 user_base_emails <- c(df_randomised$email, "zbushby")
-user_base_password <- c(df_randomised$own_password, "1102")
+user_base_password <- c(df_randomised$own_password, "")
 permission <- rep("standard", length(user_base_emails))
 permission[ length(permission) ] <- "admin"
 user_base_names <- c(df_randomised$names, "Zach")

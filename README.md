@@ -6,7 +6,7 @@ Actuarial Assassins is a thrilling, strategy-based game played among our MASS me
 
 - Each player receives an email with the details of their target and a unique password.
 - The objective is to whisper "you're dead" into the ear of your target without being overheard by anyone else.
-- Upon a successful "kill," the player must enter their login details and the victim's password on the [Actuarial Assassins Dashboard](https://5csp3a-zach-bushby.shinyapps.io/AssassinGame/).
+- Upon a successful "kill," the player must enter their login details and the victim's password on the [Actuarial Assassins Dashboard](https://5csp3-zach-bushby.shinyapps.io/AssassinGame/).
 - The game progresses as players receive their next targets upon registering a kill.
 - The last player remaining wins the game.
 
@@ -19,7 +19,7 @@ Actuarial Assassins is a thrilling, strategy-based game played among our MASS me
 
 ## Actuarial Assassins Dashboard
 
-The [Actuarial Assassins Dashboard](https://5csp3a-zach-bushby.shinyapps.io/AssassinGame/) serves as the central hub for the game, facilitating the following functionalities:
+The [Actuarial Assassins Dashboard](https://5csp3-zach-bushby.shinyapps.io/AssassinGame/) serves as the central hub for the game, facilitating the following functionalities:
 
 - **Kill Registration:** Players enter their victim's password to confirm kills and receive their next target.
 - **Game Statistics:** View top kills, number of players remaining, and a leaderboard.
